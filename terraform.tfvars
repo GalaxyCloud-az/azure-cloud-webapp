@@ -1,0 +1,6 @@
+location               = "East US"
+resource_group_name    = "groupg-rg"
+app_service_plan_name  = "groupg-plan"
+web_app_name           = "groupg-webapp"
+storage_account_name   = "groupgstorage123"
+app_insights_name      = "groupg-insights"
